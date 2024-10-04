@@ -11,7 +11,7 @@
 | --- | --- | --- |
 | Mask | 316L Stainless Steel | [McMaster-Carr](https://www.mcmaster.com/) |
 | Silicon Wafer | Silicon | [WaferPro](https://waferpro.com/silicon-wafers/) |
-| Mask | 316L Stainless Steel | [McMaster-Carr](https://www.mcmaster.com/) |
+| Mask Holder | 316L Stainless Steel | [McMaster-Carr](https://www.mcmaster.com/) |
 
 ---
 # Steps for Mask Usage
