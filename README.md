@@ -17,7 +17,7 @@
 # Steps for Mask Usage
 ---
 
-| Step | Description | Output |
+|  | Description | Output |
 | --- | --- | --- |
 | Metal Contact 1 | A thin conductor is deposited through "**Base Conductor Mask**" | Thin film plane is created |
 | Test Material | Desired sample of thin film deposited through "**Test Material Mask**" | Thin film sample is created |
@@ -27,5 +27,10 @@
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide3.PNG" width="100%">
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide4.PNG" width="100%">
+
+---
+# Provided Assets
+---
+**NOTE** : Please be mindful of the units in your preferred CAD programs. Drawings are provided to verify dimensions used
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide5.PNG" width="100%">
