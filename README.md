@@ -1,9 +1,10 @@
+---
+# Provided Assets
+---
+**NOTE** : Please be mindful of the units in your preferred CAD programs. Drawings are provided to verify dimensions used
+
+
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide1.PNG" width="100%">
-
-
-
-
-
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide2.PNG" width="100%">
 
@@ -27,10 +28,5 @@
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide3.PNG" width="100%">
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide4.PNG" width="100%">
-
----
-# Provided Assets
----
-**NOTE** : Please be mindful of the units in your preferred CAD programs. Drawings are provided to verify dimensions used
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide5.PNG" width="100%">
