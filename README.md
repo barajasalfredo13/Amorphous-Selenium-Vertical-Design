@@ -20,11 +20,7 @@
 | Top Conductor 1     | A thin conductor is deposited through "**Top Conductor 1**" | Thin film transport region is created |
 | Top Conductor 2     | A desired film thickness is created for mechanical contact through "**Top Conductor 2**" | Contact film is deposited |
 
-### Rules for Contact Thickness
-
-
-
-
+### Mask Procedure
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide3.PNG" width="100%">
 
