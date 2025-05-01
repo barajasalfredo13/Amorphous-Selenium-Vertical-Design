@@ -28,28 +28,28 @@
 
 <img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide5.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide6.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide6.PNG" width="100%">
 
-## :: Screws and Nuts Used [McMasterr](https://www.mcmaster.com/) ::  
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide7.PNG" width="100%">
+
+### :: Screws and Nuts Used [McMasterr](https://www.mcmaster.com/) ::  
 | Quantity | Item Number   | Description                                  |
 |----------|---------------|----------------------------------------------|
 | 6        | 93235A107     | Vented Socket Head Screw                     |
 | 4        | 93235A114     | Vented Socket Head Screw                     |
 | 4        | 91240A005     | Mil. Spec. 18-8 Stainless Steel Hex Nut      |
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide7.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide8.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide8.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide9.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide9.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide10.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide10.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide11.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide11.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide12.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide12.PNG" width="100%">
-
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide13.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide13.PNG" width="100%">
 
 
 | Feature       | Information                                                                                                                        |
@@ -57,9 +57,9 @@
 | Dimensions    | x-70 mm y-87.55 mm                                                                                                                 |
 | Thickness     | 1.6 mm                                                                                                                             |
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide14.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide14.PNG" width="100%">
 
-<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide15.PNG" width="100%">
+<img src="./z.ReadMeAssets/ASeGrapheneDetector/Slide15.PNG" width="100%">
 
 
 ## Aknowledgements
